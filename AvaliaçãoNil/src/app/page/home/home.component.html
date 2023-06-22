@@ -1,0 +1,25 @@
+<div class="banner">
+    <div class="content">
+        <h1 class="mb-5">  </h1>
+
+    </div>
+
+</div>
+
+<div class="container mt-4 mb-4">
+    <h1 class="text-center">Nossos Serviços</h1>
+    <div class="row">
+        <div class="col-lg-3" *ngFor="let cli of cliData">
+            <div class="foodbox">
+                  <img src="{{cli.cliImg}}">
+                  <h1>{{cli.cliName}}</h1>
+                  <P>R$ {{cli.cliPreco}} </P>
+                  <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary " routerLink="contato" type="button" >Fazer Atendimento</button>
+                
+    
+            </div>
+        </div>
+    </div>
+    
+</div>

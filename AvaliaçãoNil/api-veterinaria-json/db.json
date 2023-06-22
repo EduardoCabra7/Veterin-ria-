@@ -1,0 +1,78 @@
+{
+
+  "servicos" : [
+      {
+        "id": 1,
+        "cliName": "ESTERILIZAÇÃO CIRÚRGICA DE CÃES E GATOS",
+        "cliImg": "https://www.patasdacasa.com.br/sites/patasdacasa/files/styles/webp/public/noticias/2022/02/cirurgia-de-castracao-de-gato-tudo-o-que-voce-precisa-saber-sobre-a-esterilizacao-de-felinos_1.jpg.webp?itok=D6qKoc2v",
+        "cliPreco": "120,00"
+      
+  
+      },
+      {
+        "id": 2,
+        "cliName": "ATENDIMENTO CLÍNICO DE ESPOROTRICOSE",
+        "cliImg":
+          "data:image/jpeg;base64,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",
+          "cliPreco": "30,00"
+      },
+      {
+        "id": 3,
+        "cliName": "ATENDIMENTO CLÍNICO DE ANIMAIS",
+        "cliImg":
+          "https://vittadebicho.com.br/wp-content/uploads/2021/11/UPP04830.jpg",
+         " cliPreco": "25,00"
+      },
+  
+  
+      {
+        "id": 4,
+        "cliName": "ATENDIMENTO CLÍNICO DE VACINAÇÃO",
+        "cliImg":
+          "https://digitalvet.com.br/wp-content/uploads/2019/05/vacinas-para-caes-1000x525.png",
+          "cliPreco": "28,00"
+      },
+  
+      {
+        "id": 5,
+        "cliName": "EXAMES DE ULTRASSOM E RAIO-X",
+        "cliImg":
+          "https://www.cmvsaudeanimal.com.br/blog/wp-content/uploads/2022/12/radiologia-veterinaria-como-sao-r4ealizados-exames.jpg",
+          "cliPreco": "50,00"
+      },
+  
+     
+      {
+        "id": 6,
+        "cliName": " ATENDIMENTO CLÍNICO RATENDIMENTO ESPECIALIZADO",
+        "cliImg":
+          "https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia28986/sr_veterinario_o_que_e_cirurgia_de_nodulectomia.jpg",
+         "cliPreco": "40,00"
+      },
+  
+      {
+        "id": 7,
+        "cliName": "  ATENDIMENTO CLÍNICO DE REMOÇÃO DE TÁRTARO",
+        "cliImg":
+          "https://digitalvet.com.br/wp-content/uploads/2019/07/limpeza-de-tartaro-com-anestesia-1000x525.png",
+          "cliPreco": "250,00"
+      },
+  
+  
+      {
+        "id": 8,
+        "cliName": " ATENDIMENTO CLÍNICO DE INTERNAÇÃO",
+        "cliImg":
+          "https://housepetrj.com.br/wp-content/uploads/2022/03/hospitalizacao-princial-1024x683.jpg",
+          "cliPreco": "150,00"
+      }
+  
+  
+    ],
+    "agenda":[
+      {
+
+      }
+    ]
+  }
+  

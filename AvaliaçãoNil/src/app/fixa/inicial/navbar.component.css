@@ -1,0 +1,17 @@
+.container-fluid{
+background-color: #101026;
+padding: 20px 10px;
+}
+
+
+.nav-item .nav-link{
+    color: white;
+}
+.navbar-brand{
+    color:white;
+}
+.container-fluid{
+margin-top: 80px;
+    position: fixed;
+}
+
